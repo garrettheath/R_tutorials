@@ -1,9 +1,9 @@
+#Garrett heath : November 2019
+
 #cleaning and manipulating data with the dplyr package
 
 #load the package
 library(dplyr)
-library(githubinstall)
-
 
 # set the working directory
 setwd("~/Documents/R/R_Data/tutorial")
