@@ -1,3 +1,4 @@
+#Garrett Heath
 # using the QuantLib package: https://rdrr.io/cran/RQuantLib/man/Calendars.html
 # work with dates in R: https://www.dummies.com/programming/r/how-to-work-with-dates-in-r/
 # lubridate:  https://lubridate.tidyverse.org/
